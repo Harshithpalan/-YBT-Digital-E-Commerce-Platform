@@ -1,0 +1,16 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment/Config
+# config/database.php  # Committing this as part of "full project" but usually ignored
+
+# Uploads
+uploads/*
+!uploads/.gitkeep
+
+# Other
+.gemini/
+.agent/
+brain/
+node_modules/
