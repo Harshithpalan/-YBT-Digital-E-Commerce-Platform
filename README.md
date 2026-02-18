@@ -69,8 +69,3 @@ YBT Digital is a high-performance, robust e-commerce solution built with PHP, My
 ├── uploads/        # Product and User uploaded media
 └── *.php           # Core customer-facing pages
 ```
-
----
-
-## 🤝 Contributing
-Feel free to fork this repository and submit pull requests for any features or bug fixes.
